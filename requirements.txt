@@ -1,4 +1,9 @@
-flask
-flask-cors
-gunicorn
+fastapi
+uvicorn
+python-multipart
+pydantic
+requests
+pillow
+
+
 
