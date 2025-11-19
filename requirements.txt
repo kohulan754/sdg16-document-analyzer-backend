@@ -1,9 +1,11 @@
+flask
 fastapi
 python-multipart
 pydantic
 requests
 pillow
 gunicorn==21.2.0
+
 
 
 
