@@ -8,7 +8,9 @@ fastapi
 pytesseract
 opencv-python
 pdfplumber
-docx
+python-docx
+
+
 
 
 
