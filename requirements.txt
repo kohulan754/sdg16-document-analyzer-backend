@@ -9,6 +9,8 @@ pytesseract
 opencv-python
 pdfplumber
 python-docx
+flask-cors
+
 
 
 
