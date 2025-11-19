@@ -5,6 +5,10 @@ pydantic
 requests
 pillow
 fastapi     
+pytesseract
+opencv-python
+
+
 
 
 
