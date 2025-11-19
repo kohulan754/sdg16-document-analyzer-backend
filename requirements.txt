@@ -1,10 +1,11 @@
-flask
-fastapi
+Flask
+gunicorn==21.2.0
 python-multipart
 pydantic
 requests
 pillow
-gunicorn==21.2.0
+fastapi     
+
 
 
 
